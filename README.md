@@ -98,8 +98,4 @@ The app can be deployed on [Streamlit Cloud](https://streamlit.io/cloud) in 2 mi
 
 [Rohit Podicheti](https://github.com/RohitPodicheti)
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+ STEAMLIT MODEL LINK -(https://house-price-prediction-modell.streamlit.app/)
